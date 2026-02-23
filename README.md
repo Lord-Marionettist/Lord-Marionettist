@@ -19,6 +19,6 @@ I engineer resilient pipelines to extract, transform, and leverage data. I focus
 * Tailwind CSS (Rapid UI deployment)
 
 ## 📊 Concrete Impact
-* **Project:** Data Sniper
+* **Services:** Data Sniper
 * **Mechanics:** Engineered an autonomous Node.js pipeline to systematically extract and structure e-commerce pricing data.
 * **Outcome:** Powers monthly revenue generation for a mid-size enterprise through strategic data arbitrage.
